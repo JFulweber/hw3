@@ -1,5 +1,5 @@
 # Homework 3 / COSC4370
-
+Adair Fulweber/1769169  
 ## Objective
 The objective of this assignment is to show/render the 3 different terms in the Blinn-Phong reflection model on a cube with a single light source. I added a few things onto it that serve the purpose but are not explicitly required:
 * Ability to toggle the ambient, diffuse and specular terms, using the keys 1, 2, 3 for each of the respective terms.
