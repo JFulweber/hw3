@@ -11,5 +11,6 @@ I chose a color of (.1,.1,.5) to somewhat match the color of the picture in the 
 ## Result
 You can see the pictures attatched. I included 2 pictures that showcase purely the specular term at two different angles so that you may see the reflection in different ways. The pictures taken were with the default p-value of 5.
 ## Reference
-The opengl slides, the blinn-phong reflection slides
-http://www.opengl-tutorial.org/beginners-tutorials/tutorial-8-basic-shading/ as some form of guidance
+* The opengl slides,
+* the blinn-phong reflection slides
+* http://www.opengl-tutorial.org/beginners-tutorials/tutorial-8-basic-shading/ as some form of guidance
